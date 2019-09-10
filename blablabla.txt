@@ -1,0 +1,10 @@
+Fecha del informe: lunes, 14 de mayo de 2018
+Hora del informe [hh:mm:ss]: 15:40:51
+Versión del controlador: 23.20.16.4973
+Sistema operativo: Windows* 10 Pro (10.0.17134)
+Memoria física: 8079 MB
+ID de proveedor: 8086
+ID de dispositivo: 5912
+Revisión de dispositivo: 04
+BIOS de vídeo: 1049.0
+Resolución actual: 1600 x 900
